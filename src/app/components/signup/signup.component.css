@@ -1,0 +1,32 @@
+.input {
+  width: 95%;
+  margin: auto;
+  padding: 10px;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid dodgerblue;
+  margin-top: 2em;
+}
+.form-container {
+  width: 30%;
+  margin: auto;
+}
+p {
+  float: left;
+  margin-top: 1em;
+}
+button {
+  width: 95%;
+  padding: 15px;
+  margin-top: 2em;
+  border: none;
+  background-color: dodgerblue;
+  color: aliceblue;
+  border-radius: 10px;
+  font-size: large;
+}
+h1{
+  font-weight: bold;
+  color: darkblue;
+  text-decoration: underline double;
+}
